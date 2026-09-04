@@ -29,7 +29,7 @@ for i in emails:
     prompt = template.format(email=i)
     output.append(call_llm(prompt))
 
-# print(output)
+print(output)
 
-data['model_output'] = output
-data.to_csv("final-result.csv")
+# data['model_output'] = output
+# data.to_csv("final-result.csv")
