@@ -1,0 +1,102 @@
+,ID,Subject,Sender,Body,Urgency,Category,model_output
+0,1,Invoice Discrepancy,finance@company.com,"My invoice is wrong, please fix it.",High,,Billing
+1,2,Need to Update Payment Method,billing@client.com,I need to update my payment method for the subscription.,Medium,,Billing
+2,3,Subscription Cancellation,support@business.com,Please cancel my subscription immediately.,High,,Billing
+3,4,Invoice Not Received,admin@company.com,I haven't received my latest invoice. Can you send it to me?,Medium,,Billing
+4,5,App Crashes on Save,dev@client.com,The app crashes when I click Save. Please assist.,High,,Technical
+5,6,Login Issues,user@company.com,I can't log into my account. It keeps showing an error message.,High,,Technical
+6,7,Feature Not Working,team@business.com,The report generation feature is not working as expected.,Medium,,Technical
+7,8,App Freezing,user@client.com,The app keeps freezing when I try to open it.,High,,Technical
+8,9,Request for Dark Mode,design@company.com,Please add dark mode to the application.,Medium,,Technical
+9,10,Add Custom Fields,pm@business.com,Can we add custom fields to the project management tool?,Medium,,Technical
+10,11,Integration with Slack,dev@team.com,I would like to request an integration with Slack.,Low,,Technical
+11,12,Search Function Improvement,user@company.com,Could you improve the search function in the CRM?,Medium,,Technical
+12,13,Transaction History Not Showing,finance@client.com,My transaction history is not showing up in the account.,Medium,,Technical
+13,14,Forgot Password,user@company.com,I forgot my password and need help resetting it.,High,,Technical
+14,15,Payment Confirmation Request,accounts@company.com,Can you confirm if my payment went through?,Medium,,: Billing
+15,16,Refund Status Inquiry,support@client.com,What is the status of my refund request?,Medium,,Billing
+16,17,Data Export Issue,admin@company.com,I am having trouble exporting data from the system.,Medium,,Technical
+17,18,Report Format Change,manager@client.com,Can you change the format of the report to PDF?,Low,,General Inquiry
+18,19,API Access Help,dev@business.com,I need help accessing the API.,Medium,,Technical
+19,20,Subscription Invoice Not Correct,accounts@company.com,The recent subscription invoice is not correct. Please check.,High,,Billing
+20,21,"Twice the Charge, Half the Fun",customer1@company.com,"Wow, great job charging me twice this month. Do I get double the service for that? Fix this ASAP!",High,,: Billing
+21,22,Invoice Confusion,billing@clientcompany.com,"I received my invoice, but I'm confused about some charges. Can you clarify this for me?",Medium,,Billing
+22,23,Is the System Down?,support@business.com,Something is broken in the system. Can you get it fixed?,High,,Technical
+23,24,Unable to Access Account,user@company.com,I can't seem to access my account today. Please help!,High,,Technical
+24,25,Data Export Feature Needed,manager@team.com,I don't understand why I can't export data from the system. It's quite limiting!,Medium,,Technical
+25,26,Need a Refund,client@business.com,I was charged for a service I didn't use. I expect my refund soon.,High,,Billing
+26,27,Feature Request: Gantt Charts,product@company.com,Gantt charts would be a great addition. How come we don't have that yet?,Medium,,Technical
+27,28,Another Spam Email?,offers@random.com,Get rich quick! Click here for more info!,Low,,General Inquiry
+28,29,Can't Connect to Project,teamlead@clientcompany.com,I can't seem to connect to my project. Something's off.,High,,Technical
+29,30,Feature Addition Idea,innovator@startup.com,You really should consider adding a collaboration tool. It's frustrating without it!,Medium,,Technical
+30,31,Re: Subscription Inquiry,auto-reply@company.com,"Hello, I am currently out of the office and will respond to your email upon my return.",Low,,General Inquiry
+31,32,Looking for Help,randomuser@random.com,Check out this amazing deal! You won't want to miss it!,Low,,General Inquiry
+32,33,Out of Office,support@company.com,I am out of the office until next week. Please contact another representative for immediate assistance.,Low,,General Inquiry
+33,34,Need a Feature: Team Chat,dev@company.com,Why doesn't the tool have a team chat feature? It would be so useful!,Medium,,Technical
+34,35,Payment Issue,client@business.com,I can't believe you charged my card again for something I canceled last month.,High,,: Billing
+35,36,System Error,user@business.com,There's something broken in your system that prevents me from logging in.,High,,Technical
+36,37,I Want to Export My Data,director@company.com,Why can't I export my data? This is a major flaw in the system.,Medium,,Technical
+37,38,Investment Opportunity,opportunity@scam.com,You have been selected for an incredible investment opportunity! Click here!,Low,,General Inquiry
+38,39,Account Locked,user@company.com,My account is locked and I need immediate access!,High,,: Technical
+39,40,Help with Subscription,user@sample.com,I am unsure if I am on the right subscription plan. Can you assist me with that?,Medium,,General Inquiry
+40,41,Urgent Payment Issue,finance@company.com,"I'm unable to log in, and it looks like we were charged twice for this month. Can you help?",High,,"- Technical
+- Billing"
+41,42,Competitor Pricing Concerns,admin@company.com,We've seen a 40% jump in pricing and are evaluating our options. What gives?,High,,Billing
+42,43,API Limits Inquiry,dev@company.com,Quick question about API limits — our payroll runs tonight and we need to ensure we're covered.,High,,Technical
+43,44,Login Trouble Due to Payment,user@company.com,I can't access my account because my payment failed. Can you sort this out?,High,,: Billing
+44,45,Export Feature Missing,analyst@company.com,"I suppose I'll just work around your missing export feature, but it would be nice to have it.",Medium,,Technical
+45,46,Integration Issue,support@company.com,"We're facing issues with the integration, and it's affecting our workflow. Please advise.",Medium,,Technical
+46,47,Feature Request for Enhanced Reporting,manager@company.com,"I need to be able to generate detailed reports, which is currently not possible. Can this be added?",Medium,,Technical
+47,48,Reactivation and Billing,contact@company.com,"Our account was inactive, but now we're charged again. Can we reactivate without extra fees?",Medium,,Billing
+48,49,Login Errors After Update,staff@company.com,"Since the last update, I can't log in. Did something change?",High,,Technical
+49,50,Budgeting Concerns,finance@company.com,We're evaluating our expenses as we're over our budget. Can you explain the recent price changes?,Medium,,: Billing
+50,51,Feature Request Clarity,devteam@company.com,We need better collaboration tools integrated. Can you clarify if this is in the roadmap?,Medium,,Technical
+51,52,Payment Link Not Working,billing@company.com,"The payment link isn't working, and I need to log in to access certain features. Help!",High,,Technical
+52,53,API Processing Delay,developer@company.com,We're experiencing delays with the API. What should we do? This is affecting our production.,High,,Technical
+53,54,Project Management Tools Missing,product@company.com,It seems like the project management tools are missing from the dashboard. Can this be rectified?,Medium,,Technical
+54,55,Unexpected Charges,operations@company.com,I've noticed unexpected charges on our account this month. Can you investigate?,Medium,,Billing
+55,56,Feedback on New Features,teamlead@company.com,I have some feedback on the new features released last week. Can we discuss potential changes?,Medium,,General Inquiry
+56,57,Payment Authorization Confusion,admin@company.com,"I thought our payment was authorized, but my account shows otherwise. What's happening?",High,,Billing
+57,58,Software Glitch,user@company.com,There seems to be a glitch in the software. Can someone take a look at this ASAP?,High,,Technical
+58,59,Missing Features Post-Upgrade,manager@company.com,"After the last upgrade, I noticed missing functionalities. Can you clarify when these will be restored?",Medium,,: Technical
+59,60,Unclear Billing Cycle,contact@company.com,I'm not clear on our billing cycle as it seems to have changed. Can you explain?,Medium,,Billing
+60,61,"Mera account band ho gaya, please help",rahul@techstartup.in,Mera account band ho gaya hai aur mujhe urgent access chahiye. Please jaldi se help karein.,High,,Technical
+61,62,GST number not reflecting on invoice,anita@financesolutions.com,"Main apne invoices pe GST number nahi dekh paa rahi. Isko jaldi resolve karein, please.",Medium,,Billing
+62,63,UPI payment failed,suresh@logistics.co.in,Meri UPI payment process nahi ho rahi thi. Aapka system kuch galat hai kya?,High,,Technical
+63,64,Diwali season discount request,neha@consultingfirm.com,"Diwali season aane wala hai, kya aap koi discount offer kar sakte hain?",Low,,General Inquiry
+64,65,NEFT not credited,vinayak@construction.com,"Maine NEFT kiya tha, par abhi tak amount credit nahi hua. Please check karein.",High,,General Inquiry
+65,66,Account accessibility issue,priya@marketplace.in,Mere account se login nahi ho raha hai. Bahut zaruri kaam hai mujhe.,High,,Technical
+66,67,Feature Request: Integration with Indian payment gateways,karthik@ecommerce.com,Kya aap Indian payment gateways jaise Paytm aur PhonePe ke liye integration kar sakte hain? Yeh hamare liye useful hoga.,Medium,,Technical
+67,68,Feature enhancement suggestion,deepak@healthtech.co.in,Kya aap task reminders ko automate karne ki feature implement kar sakte hain? Yeh meri team ke liye helpful hoga.,Medium,,Technical
+68,69,Urgent: Account suspension notice,manoj@itservices.in,"Mujhe email mila hai ki mera account suspend hone wala hai. Yeh samasya jaldi solve karen, please.",High,,Technical
+69,70,Spam: Repeated promotional emails,fake@spam.com,Unsubscribe my email address from your list.,Low,,General Inquiry
+70,71,Need assistance with collaboration feature,sanjay@startup.co.in,Collaboration tools ka use karne mein thoda struggle ho raha hai. Kya aap help kar sakte hain?,Medium,,Technical
+71,72,Spam: Unrelated offers,noreply@offers.com,Check out our offers on random products.,Low,,General Inquiry
+72,73,Urgent need for feature update,aman@fintech.in,Agar aapne feature update nahi kiya toh mujhe dusri service use karni padegi. Please jaldi update karein.,High,,: Technical
+73,74,Technical issue with reports,gita@analytics.in,"Reports open nahi ho rahe hain, mujhe urgent data chahiye. Isko resolve karein.",High,,Technical
+74,75,Request for feature walkthrough,ajay@edtech.com,Kya aap mujhe new features ka walkthrough de sakte hain? Mere team ko samajhne mein dikkat ho rahi hai.,Medium,,Technical
+75,76,Spam: Irrelevant marketing,subscribe@randommarketing.com,You have been selected for special discounts!,Low,,General Inquiry
+76,77,General feedback on UI,kiran@designstudio.in,Aapka UI kaafi acha hai lekin kuch features use karna mushkil ho raha hai. Main is par feedback de sakta hoon?,Medium,,Technical
+77,78,Mera login nahi ho raha,sunil@consultancy.com,"Mujhe account access nahi ho raha hai, kya aap mujhe jaldi se help kar sakte hain?",High,,Technical
+78,79,Need GST invoice update,mitali@travelagency.in,Mera GST number invoices pe nahi dikha raha hai. Isko jaldi thik karein.,High,,Technical
+79,80,Request for API access,rahul@startuplogistics.in,Kya aap mujhe API access de sakte hain? Mujhe jaldi se integration karna hai.,High,,Technical
+80,81,Billing Issue,client@example.com,Need help with bill.,High,,Billing
+81,82,CAN'T BELIEVE YOU CHARGED ME!,angryclient@example.com,THIS IS UNACCEPTABLE! FIX NOW!,High,,Technical
+82,83,Monthly Subscription,confuseduser@example.com,Why is my account charged twice?,High,,Billing
+83,84,Cancellation Notice,client@example.com,Last straw. Cancel my account.,High,,Billing
+84,85,Technical Glitch?,user@example.com,My tasks aren't saving.,Medium,,Technical
+85,86,Need Assistance ASAP!,user@example.com,The app crashes on login.,High,,Technical
+86,87,App Broken?,user@example.com,Tasks don't appear after refresh.,Medium,,Technical
+87,88,Rejected Email,user@example.com,Just a test email.,Low,,General Inquiry
+88,89,Request for New Feature,user@example.com,Can you fix the export feature?,Medium,,Technical
+89,90,Recurring Issue,user@example.com,Tasks disappear regularly.,High,,Technical
+90,91,Lost Invoice,user@example.com,Need past invoices.,Low,,Billing
+91,92,New Features You Need!,SalesGuru@example.com,Don't miss our latest offers!,Low,,General Inquiry
+92,93,Migration Help,anotheruser@example.com,Needed more help on migration.,Medium,,Technical
+93,94,FW: Project Update,wrongteam@example.com,Please see attached for review.,Low,,General Inquiry
+94,95,Feature Bug,user@example.com,Export doesn't work properly.,Medium,,Technical
+95,96,New Client Inquiry,client@example.com,Can you send me more info?,Low,,General Inquiry
+96,97,Report Missing Data,user@example.com,Data not showing in report.,High,,Technical
+97,98,WE NEED TO TALK!,angrycustomer@example.com,I'm done with your service!,High,,General Inquiry
+98,99,Urgent Billing Issue,client@example.com,Need refund for last month.,High,,Billing
+99,100,Spam or Not?,legituser@example.com,Check this out for you.,Low,,General Inquiry

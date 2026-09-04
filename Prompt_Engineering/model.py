@@ -1,0 +1,19 @@
+from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
+
+client = OpenAI()
+
+def call_llm(prompt):
+    response = client.chat.completions.create(
+    model = 'gpt-4',
+    messages = [
+        {
+            "role" : "user",
+            "content" : prompt
+        }
+    ]
+
+)
+    return response.choices[0].message.content
